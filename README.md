@@ -1,2 +1,2 @@
 # JWikiGit
-SpringBoot+JGjit，知识库的版本控制
+SpringBoot+JGit，知识库的版本控制
